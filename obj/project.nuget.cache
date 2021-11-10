@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a5uMtuq0V0ZWBeJTF5irTKVSh6FzxZwgL6ueancMsXjomT4nihKWiWwFvPnl5gK0/gZyKKsLAbqOIDYzUkMjSw==",
+  "dgSpecHash": "dYdEtB8cYB6K53WnLNuLVPE05NIKWo1fBC/qEJAn3Esf+ZWcOgESR/C3LybQ0GKXYCNfQbdl3mGLKFNmO+Qi9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Desktop\\ToDoList\\todolistapi\\todoListAPI.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\ToDoList\\todoListAPI\\todoListAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
